@@ -36,3 +36,5 @@ retract (
 	v1.16.0 // published accidentally
 	v1.9.0 // published accidentally
 )
+
+replace github.com/swaggo/swag v1.16.3 => github.com/Kafkalasch/swag v0.0.0-20240617112210-5a5767660f4c
